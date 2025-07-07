@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Portfolio
+## 🛡️ Cybersecurity Portfolio
 
 Welcome! This is my growing collection of cybersecurity projects completed during my training and hands-on labs. Each project demonstrates skills in Linux, incident response, internal audits, and more.
 
