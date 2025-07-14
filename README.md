@@ -18,6 +18,16 @@ Welcome! This is my growing collection of cybersecurity projects completed durin
 - 📊 [SQL Investigations – Login & Employee Data](https://github.com/orisex/Cybersecurity-SQL-Investigations-Portfolio)  
   SQL queries used to investigate failed logins, after-hours activity, and employee access, using `AND`, `OR`, `NOT`, and `LIKE` for targeted data analysis.
 
+- 📝 [Vulnerability Assessment Report](https://github.com/orisex/vulnerability-assessment-report)  
+  A vulnerability assessment of a remote database server using NIST SP 800-30 guidelines. Includes risk analysis, threat identification, and remediation recommendations.
+
+---
+
+## 🚧 In Progress
+
+More projects coming soon as I continue my cybersecurity journey.
+
+
 
 ---
 
