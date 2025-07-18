@@ -21,13 +21,8 @@ Welcome! This is my growing collection of cybersecurity projects completed durin
 - 📝 [Vulnerability Assessment Report](https://github.com/orisex/vulnerability-assessment-report)  
   A vulnerability assessment of a remote database server using NIST SP 800-30 guidelines. Includes risk analysis, threat identification, and remediation recommendations.
 
----
-
-## 🚧 In Progress
-
-More projects coming soon as I continue my cybersecurity journey.
-
-
+- 📓 [Incident Handler’s Journal](https://github.com/orisex/Incident-Handlers-Journal)  
+  A complete journal of incident handling exercises, including phishing investigations, custom IDS rule creation, log analysis, and SIEM search practice. Demonstrates practical incident response workflows and documentation.
 
 ---
 
