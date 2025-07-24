@@ -24,6 +24,9 @@ Welcome! This is my growing collection of cybersecurity projects completed durin
 - 📓 [Incident Handler’s Journal](https://github.com/orisex/Incident-Handlers-Journal)  
   A complete journal of incident handling exercises, including phishing investigations, custom IDS rule creation, log analysis, and SIEM search practice. Demonstrates practical incident response workflows and documentation.
 
+- 🐍 [Algorithm for File Updates in Python](https://github.com/orisex/Algorithm-for-File-Updates-in-Python)  
+  A Python script that automates access control by updating an IP allow list. Reads IPs from a file, removes unauthorized addresses using a second list, and rewrites the cleaned list back to the file. Demonstrates file handling, conditionals, loops, and string/list methods in a security context.
+
 ---
 
 ## 🚧 In Progress
